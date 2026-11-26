@@ -22,3 +22,6 @@ uv run scripts/oss_finder.py scan \
 ## License
 
 MIT
+
+---
+Built by [Abhishek Prasad](https://abhishekprasad.fyi)
